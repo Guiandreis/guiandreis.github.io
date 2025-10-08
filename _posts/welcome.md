@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to My Learning Journey
+title: Welcome to My Learning Journey from project to deploy
 date: 2025-10-07 19:00 -0300
 tags: [software architecture]
 ---
