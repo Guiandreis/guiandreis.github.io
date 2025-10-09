@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Welcome to my blog and to my Learning Journey from project to deploy
 date: 2025-10-07 19:00 -0300
 tags: [software architecture]
