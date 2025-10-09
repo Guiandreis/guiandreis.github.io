@@ -2,7 +2,7 @@
 
 /* Main content styling */
 .content {
-    font-size: 20px !important;
+    font-size: 12px !important;
     line-height: 1.6 !important;
     color: #f8f9fa !important;
 }
@@ -66,11 +66,6 @@
     border-radius: 3px !important;
 }
 
-.content pre {
-    background-color: #2d3748 !important;
-    color: #f8f9fa !important;
-    border: 1px solid #4a5568 !important;
-}
 
 .content pre code {
     background-color: transparent !important;
