@@ -1,0 +1,94 @@
+                                                                                                                                                                            /* Custom CSS for Guiandreis Blog - Font Size and Color Overrides */
+
+/* Main content styling */
+.content {
+    font-size: 20px !important;
+    line-height: 1.6 !important;
+    color: #f8f9fa !important;
+}
+
+/* Headings styling */
+.content h1,
+.content h1 span,
+.content h1 .me-2 {
+    font-size: 2.2em !important;
+    color: #ffffff !important;
+}
+
+.content h2,
+.content h2 span,
+.content h2 .me-2 {
+    font-size: 1.8em !important;
+    color: #ffffff !important;
+}
+
+.content h3,
+.content h3 span,
+.content h3 .me-2 {
+    font-size: 1.4em !important;
+    color: #ffffff !important;
+}
+
+.content h4,
+.content h4 span,
+.content h4 .me-2 {
+    font-size: 1.2em !important;
+    color: #ffffff !important;
+}
+
+/* Paragraph and list styling */
+.content p {
+    font-size: 20px !important;
+    line-height: 1.6 !important;
+    color: #f8f9fa !important;
+}
+
+.content li {
+    font-size: 20px !important;
+    line-height: 1.6 !important;
+    color: #f8f9fa !important;
+}
+
+/* Text formatting */
+.content strong {
+    color: #ffffff !important;
+}
+
+.content em {
+    color: #f8f9fa !important;
+}
+
+/* Code styling */
+.content code {
+    background-color: #2d3748 !important;
+    color: #f8f9fa !important;
+    padding: 2px 4px !important;
+    border-radius: 3px !important;
+}
+
+.content pre {
+    background-color: #2d3748 !important;
+    color: #f8f9fa !important;
+    border: 1px solid #4a5568 !important;
+}
+
+.content pre code {
+    background-color: transparent !important;
+    color: #f8f9fa !important;
+    padding: 0 !important;
+}
+
+/* Code block headers */
+.content .code-header {
+    background-color: #1a202c !important;
+    color: #f8f9fa !important;
+}
+
+/* Links styling */
+.content a {
+    color: #60a5fa !important;
+}
+
+.content a:hover {
+    color: #93c5fd !important;
+}
