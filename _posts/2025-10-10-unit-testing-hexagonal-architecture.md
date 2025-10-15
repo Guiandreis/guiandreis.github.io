@@ -10,7 +10,7 @@ tags: [Unit test]
 
 ## 🧪 Welcome Back to Our Learning Journey
 
-Hello again! In [Part 1](2025-10-09-welcome), we explored why hexagonal architecture matters from day one. Today, we're diving deep into **unit testing** and how clean architecture makes testing not just possible, but actually enjoyable.
+Hello again! In [Part 1](/posts/welcome/), we explored why hexagonal architecture matters from day one. Today, we're diving deep into **unit testing** and how clean architecture makes testing not just possible, but actually enjoyable.
 
 If you've ever struggled with testing tightly coupled code, you know the pain. But with hexagonal architecture, testing becomes a natural part of development—not an afterthought.
 
