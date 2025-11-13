@@ -225,3 +225,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+# Trigger rebuild qui 13 nov 2025 19:42:19 -03
