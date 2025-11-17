@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 3 - GitHub Actions CI Pipeline: Automating Quality Assurance
+title: "Part 3 - GitHub Actions CI Pipeline: Automating Quality Assurance"
 date: 2025-10-11 19:00 -0300
 categories: [CI, build]
 tags: [CI, GitHub Actions, DevOps, build]
