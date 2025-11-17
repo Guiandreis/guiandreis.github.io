@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Part 5 - Introducing Makefile: Standardizing Development Workflows"
-date: 2025-11-17 21:00 -0300
+date: 2025-11-17 10:00 -0300
 categories: [Automation, build]
 tags: [Makefile, Development, Automation, build]
 ---
