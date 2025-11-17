@@ -2,6 +2,7 @@
 layout: post
 title: "Part 4 - Adding Ruff as Formatter and Linter: Enforcing Code Quality"
 date: 2025-11-13 19:00 -0300
+permalink: /posts/adding-ruff-formatter-linter/
 categories: [Code Quality, build]
 tags: [Ruff, Linting, Formatting, Code Quality, build]
 ---
